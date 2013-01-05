@@ -41,7 +41,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/d2-common" name="AOKP/android_device_samsung_d2-common" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="task650" revision="jb-mr1" />
   <project path="device/samsung/d2att" name="device_d2att_4.2" remote="task650" revision="master" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/d2_custom" name="underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
