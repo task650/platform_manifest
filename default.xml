@@ -47,6 +47,7 @@
   <project path="device/samsung/i777" name="device_i777_4.2" remote="task650" revision="master" />
   <project path="device/samsung/galaxys2-common" name="device_galaxys2-common_4.2" remote="task650" revision="master" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/d2_custom" name="underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="kernel_underwear_manta" remote="task650" revision="master" />
   <project path="device/samsung/manta" name="device_samsung_manta" remote="task650" revision="jb-mr1" />
@@ -294,6 +295,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
+  <project path="packages/apps/SamsungServiceMode" name="android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="packages_apps_settings" remote="task650" revision="master" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
