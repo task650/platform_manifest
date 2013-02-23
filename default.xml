@@ -43,6 +43,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="task650" revision="jb-mr1" />
   <project path="device/samsung/d2att" name="device_d2att_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/d2spr" name="device_d2spr_4.2" remote="task650" revision="master" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="task650" revision="master" />
   <project path="device/samsung/i777" name="device_i777_4.2" remote="task650" revision="master" />
   <project path="device/samsung/galaxys2-common" name="device_galaxys2-common_4.2" remote="task650" revision="master" />
