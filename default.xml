@@ -14,13 +14,13 @@
            review="review.cyanogenmod.com" />
 
   <remote  name="task650"
-           fetch="https://github.com/task650/" />
+           fetch="https://github.com/" />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="task650" revision="jb-mr1" >
+  <project path="build" name="task650/android_build" remote="task650" revision="jb-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
@@ -41,20 +41,20 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="task650" revision="jb-mr1" />
-  <project path="device/samsung/d2att" name="device_d2att_4.2" remote="task650" revision="master" />
-  <project path="device/samsung/d2spr" name="device_d2spr_4.2" remote="task650" revision="master" />
-  <project path="device/samsung/d2tmo" name="device_d2tmo_4.2" remote="task650" revision="master" />
-  <project path="device/samsung/i777" name="device_i777_4.2" remote="task650" revision="master" />
-  <project path="device/samsung/galaxys2-common" name="device_galaxys2-common_4.2" remote="task650" revision="master" />
-  <project path="kernel/samsung/smdk4210_custom" name="underwear_kernel_i777_4.2" remote="task650" revision="cm-10.1" />
-  <project path="kernel/samsung/d2_custom" name="underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
-  <project path="kernel/samsung/manta" name="kernel_underwear_manta" remote="task650" revision="master" />
-  <project path="device/samsung/manta" name="device_samsung_manta" remote="task650" revision="jb-mr1" />
-  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="task650" revision="jb-mr1" />
-  <project path="device/samsung/p4wifi" name="device_p4_wifi" remote="task650" revision="master" />
-  <project path="device/samsung/p4-common" name="device_p4wifi-common" remote="task650" revision="master" />
-  <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="task650" revision="jb-mr1" />
+  <project path="device/samsung/d2-common" name="task650/android_device_samsung_d2-common" remote="task650" revision="jb-mr1" />
+  <project path="device/samsung/d2att" name="task650/device_d2att_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/d2spr" name="task650/device_d2spr_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/d2tmo" name="task650/device_d2tmo_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/i777" name="task650/device_i777_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/galaxys2-common" name="task650/device_galaxys2-common_4.2" remote="task650" revision="master" />
+  <project path="kernel/samsung/smdk4210_custom" name="task650/underwear_kernel_i777_4.2" remote="task650" revision="cm-10.1" />
+  <project path="kernel/samsung/d2_custom" name="task650/underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
+  <project path="kernel/samsung/manta" name="task650/kernel_underwear_manta" remote="task650" revision="master" />
+  <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="jb-mr1" />
+  <project path="device/samsung/msm8960-common" name="task650/android_device_samsung_msm8960-common" remote="task650" revision="jb-mr1" />
+  <project path="device/samsung/p4wifi" name="task650/device_p4_wifi" remote="task650" revision="master" />
+  <project path="device/samsung/p4-common" name="task650/device_p4wifi-common" remote="task650" revision="master" />
+  <project path="device/samsung/qcom-common" name="task650/device_samsung_qcom-common" remote="task650" revision="jb-mr1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -218,7 +218,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb-mr1" />
-  <project path="frameworks/base" name="frameworks_base" remote="task650" revision="jb-mr1" />
+  <project path="frameworks/base" name="task650/frameworks_base" remote="task650" revision="jb-mr1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -275,34 +275,34 @@
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="task650" revision="master" />
+  <project path="packages/apps/Camera" name="task650/android_packages_apps_Camera" remote="task650" revision="master" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CDMATools" name="AOKP/packages_apps_CDMATools" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="task650" revision="jb-mr1" />
+  <project path="packages/apps/Contacts" name="task650/packages_apps_Contacts" remote="task650" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="AOKP/packages_apps_DeskClock" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Email" name="AOKP/packages_apps_Email" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="task650" revision="cm-10.1" />
+  <project path="packages/apps/Gallery2" name="task650/android_packages_apps_Gallery2" remote="task650" revision="cm-10.1" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="task650" revision="cm-10.1" />
-  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="task650" revision="jb-mr1" />
+  <project path="packages/apps/LockClock" name="task650/android_packages_apps_LockClock" remote="task650" revision="cm-10.1" />
+  <project path="packages/apps/Mms" name="task650/packages_apps_Mms" remote="task650" revision="jb-mr1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PerformanceControl" name="AOKP/packages_apps_PerformanceControl" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="task650" revision="jb-mr1" />
+  <project path="packages/apps/Phone" name="task650/packages_apps_Phone" remote="task650" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="task650" revision="jb-mr1" />
+  <project path="packages/apps/ROMControl" name="task650/packages_apps_ROMControl" remote="task650" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Settings" name="packages_apps_settings" remote="task650" revision="master" />
+  <project path="packages/apps/Settings" name="task650/packages_apps_settings" remote="task650" revision="master" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -376,10 +376,10 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <project path="vendor/aokp" name="vendor_task650" remote="task650" revision="master" />
-  <project path="vendor/" name="vendor" remote="task650" revision="master" />
+  <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" revision="master" />
+  <project path="vendor/" name="task650/vendor" remote="task650" revision="master" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/samsung" name="vendor_samsung_task650" remote="task650" revision="master" />
+  <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="master" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="jb-mr1" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
@@ -389,5 +389,5 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="platform_manifest" remote="task650" revision="jb-4.2" />
+  <project path="platform_manifest" name="task650/platform_manifest" remote="task650" revision="jb-4.2" />
 </manifest>
