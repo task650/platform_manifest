@@ -23,7 +23,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="UnicornButter/android_build" remote="pub" revision="jb-mr1" >
+  <project path="build" name="task650/android_build" remote="task650" revision="linaro" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
