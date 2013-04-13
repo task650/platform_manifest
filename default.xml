@@ -45,6 +45,7 @@
   <project path="device/samsung/d2att" name="task650/device_d2att_4.2" remote="task650" revision="master" />
   <project path="device/samsung/d2spr" name="task650/device_d2spr_4.2" remote="task650" revision="master" />
   <project path="device/samsung/d2tmo" name="task650/device_d2tmo_4.2" remote="task650" revision="master" />
+  <project path="device/samsung/d2vzw" name="task650/device_d2vzw_4.2" remote="task650" revision="master" />
   <project path="device/samsung/i777" name="task650/device_i777_4.2" remote="task650" revision="master" />
   <project path="device/samsung/galaxys2-common" name="task650/device_galaxys2-common_4.2" remote="task650" revision="master" />
   <project path="kernel/samsung/smdk4210_custom" name="task650/underwear_kernel_i777_4.2" remote="task650" revision="cm-10.1" />
