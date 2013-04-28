@@ -48,7 +48,7 @@
   <project path="device/samsung/d2vzw" name="task650/device_d2vzw_4.2" remote="task650" revision="master" />
   <project path="device/samsung/i777" name="task650/device_i777_4.2" remote="task650" revision="master" />
   <project path="device/samsung/galaxys2-common" name="task650/device_galaxys2-common_4.2" remote="task650" revision="master" />
-  <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/smdk4210" name="task650/underwear_kernel_i777_4.2" remote="task650" revision="cm-10.1" />
   <project path="kernel/samsung/d2_custom" name="task650/underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="jb-mr1" />
