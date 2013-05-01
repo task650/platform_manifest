@@ -52,7 +52,7 @@
   <project path="kernel/samsung/d2_custom" name="task650/underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="jb-mr1" />
-  <project path="device/samsung/msm8960-common" name="task650/android_device_samsung_msm8960-common" remote="task650" revision="jb-mr1" />
+  <project path="device/samsung/msm8960-common" name="AOKP/device_samsung_msm8960-common" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/p4wifi" name="task650/device_p4_wifi" remote="task650" revision="master" />
   <project path="device/samsung/p4-common" name="task650/device_p4wifi-common" remote="task650" revision="master" />
   <project path="device/samsung/qcom-common" name="task650/device_samsung_qcom-common" remote="task650" revision="jb-mr1" />
