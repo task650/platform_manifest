@@ -285,6 +285,7 @@
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-10.1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
+  <project path="packages/apps/Babel" name="CyanogenMod/android_packages_apps_Babel" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="task650/packages_apps_Browser" remote="task650" revision="jb-mr1" />
