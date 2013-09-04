@@ -48,9 +48,6 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/d2-common" name="task650/android_device_samsung_d2-common" remote="task650" revision="jb-mr2" />
-  <project path="device/samsung/d2att" name="task650/device_d2att_4.2" remote="task650" revision="jb-mr2" />
-
   <project path="device/samsung/jflteatt" name="task650/device_samsung_jflteatt" remote="task650" revision="jb-mr2" />
   <project path="device/samsung/jf-common" name="task650/device_samsung_jf-common" remote="task650" revision="jb-mr2" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-10.2" />
