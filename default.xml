@@ -395,7 +395,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" groups="pdk" />
-  <project path="system/core" name="task650/system_core" remote="task650" revision="jb-mr2" groups="pdk" />
+  <project path="system/core" name="AOKP/system_core" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-10.2" groups="pdk" />
