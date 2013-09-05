@@ -414,7 +414,7 @@
   <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" revision="master" />
   <project path="vendor/" name="task650/vendor" remote="task650" revision="master" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="master" />
+  <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="jb-mr2" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
