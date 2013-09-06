@@ -407,7 +407,7 @@
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="cm" revision="cm-10.2" groups="pdk" />
 
-  <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" revision="master" />
+  <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" revision="jb-mr2" />
   <project path="vendor/" name="task650/vendor" remote="task650" revision="master" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr2" />
   <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="jb-mr2" />
