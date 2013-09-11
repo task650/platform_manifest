@@ -47,6 +47,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/lge/mako" name="task650/device_lge_mako" remote="task650" revision="jb-mr2" />
   <project path="device/samsung/d2att" name="task650/device_d2att" remote="task650" revision="jb-mr2" />
   <project path="device/samsung/d2-common" name="task650/android_device_samsung_d2-common" remote="task650" revision="jb-mr2" />
   <project path="device/samsung/jflteatt" name="task650/device_samsung_jflteatt" remote="task650" revision="jb-mr2" />
@@ -415,6 +416,7 @@
   <project path="vendor/" name="task650/vendor" remote="task650" revision="master" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr2" />
   <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="jb-mr2" />
+  <project path="vendor/lge" name="task650/vendor_lge" remote="task650" revision="jb-mr2" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
