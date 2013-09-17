@@ -352,7 +352,7 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-<project path="packages/apps/ContactsCommon" name="AOKP/packages_apps_ContactsCommon" remote="aokp" revision="jb-mr2" />
+<project path="packages/apps/ContactsCommon" name="task650/packages_apps_ContactsCommon" remote="task650" revision="jb-mr2" />
   <project path="packages/providers/ContactsProvider" name="AOKP/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr2" />
   <project path="packages/providers/DownloadProvider" name="AOKP/packages_providers_DownloadProvider" remote="aokp" revision="jb-mr2" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
