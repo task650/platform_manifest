@@ -327,7 +327,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Mms" name="task650/packages_apps_Mms" remote="task650" revision="jb-mr2" />
+  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr2" />
