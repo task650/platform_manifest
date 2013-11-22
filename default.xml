@@ -46,7 +46,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/lge/hammerhead" name="task650/device_lge_hammerhead" remote="task650" revision="kitkat" groups="notdefault,device,hammerhead" />
+  <project path="device/lge/hammerhead" name="task650/device_lge_hammerhead" remote="task650" revision="kitkat" />
   <project path="device/lge/mako" name="task650/device_lge_mako" remote="task650" revision="kitkat" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/d2att" name="task650/device_d2att" remote="task650" revision="kitkat" />
