@@ -19,7 +19,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="AOKP/build" remote="aokp" revision="kitkat" groups="pdk">
+  <project path="build" name="task650/build" remote="task650" revision="kitkat" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="art" name="platform/art" />
