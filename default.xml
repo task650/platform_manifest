@@ -55,7 +55,7 @@
   <project path="device/samsung/jfltetmo" name="task650/device_samsung_jfltetmo" remote="task650" revision="kitkat" />
   <project path="device/samsung/jf-common" name="task650/device_samsung_jf-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="kitkat" />
-  <project path="device/samsung/msm8960-common" name="task650/android_device_samsung_msm8960-common" remote="task650" revision="kitkat" />
+  <project path="device/samsung/msm8960-common" name="task650/device_samsung_msm8960-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/qcom-common" name="task650/device_samsung_qcom-common" remote="task650" revision="kitkat" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
