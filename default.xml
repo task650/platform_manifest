@@ -473,7 +473,7 @@
 -->
   <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" revision="kitkat" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="kitkat" />
-  <project path="vendor/lge" name="task650/vendor_lge_task650" remote="task650" revision="kitkat" />
+  <project path="vendor/lge" name="task650/vendor_lge" remote="task650" revision="kitkat" />
   <project path="vendor/samsung" name="task650/vendor_samsung_task650" remote="task650" revision="kitkat" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="kitkat" />
 
