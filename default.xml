@@ -56,7 +56,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/lge/hammerhead" name="task650/device_lge_hammerhead" remote="task650" revision="kitkat" />
   <project path="device/lge/mako" name="task650/device_lge_mako" remote="task650" revision="kitkat" />
-  <project path="device/qcom/common" name="AOKP/device_qcom_common" remote="aokp" revision="kitkat" />
+  <project path="device/qcom/common" name="task650/device_qcom_common" remote="task650" revision="kitkat" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/d2att" name="task650/device_d2att" remote="task650" revision="kitkat" />
   <project path="device/samsung/d2-common" name="task650/device_samsung_d2-common" remote="task650" revision="kitkat" />
