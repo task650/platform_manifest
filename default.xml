@@ -61,7 +61,6 @@
   <project path="device/samsung/d2att" name="task650/device_d2att" remote="task650" revision="kitkat" />
   <project path="device/samsung/d2-common" name="task650/device_samsung_d2-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/jflte" name="task650/device_samsung_jflte" remote="task650" revision="kitkat" />
-  <project path="device/samsung/jfltetmo" name="task650/device_samsung_jfltetmo" remote="task650" revision="kitkat" />
   <project path="device/samsung/jf-common" name="task650/device_samsung_jf-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="kitkat" />
   <project path="device/samsung/msm8960-common" name="task650/device_samsung_msm8960-common" remote="task650" revision="kitkat" />
