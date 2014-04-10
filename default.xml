@@ -221,7 +221,7 @@
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="AOKP/external_openssh" remote="aokp" revision="kitkat" />
-  <project path="external/openssl" name="platform/external/openssl" groups="pdk" />
+  <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="cm" revision="cm-11.0" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/pigz" name="AOKP/external_pigz" remote="aokp" revision="kitkat" />
   <project path="external/pixman" name="platform/external/pixman" />
