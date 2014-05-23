@@ -17,10 +17,6 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
-  <remote  name="slim"
-           fetch="https://github.com/"
-           review="gerrit.slimroms.net" />
-
   <remote  name="task650"
            fetch="https://github.com/" />
 
