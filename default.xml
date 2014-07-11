@@ -54,7 +54,6 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/lge/hammerhead" name="task650/device_lge_hammerhead" remote="task650" revision="kitkat" />
-  <project path="device/lge/mako" name="task650/device_lge_mako" remote="task650" revision="kitkat" />
   <project path="device/htc/m8" name="task650/device_htc_m8" remote="task650" revision="kitkat" />
   <project path="device/qcom/common" name="AOKP/device_qcom_common" remote="aokp" revision="kitkat" />
   <project path="device/sample" name="device/sample" groups="pdk" />
@@ -62,7 +61,6 @@
   <project path="device/samsung/d2-common" name="task650/device_samsung_d2-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/jflte" name="task650/device_samsung_jflte" remote="task650" revision="kitkat" />
   <project path="device/samsung/jf-common" name="task650/device_samsung_jf-common" remote="task650" revision="kitkat" />
-  <project path="device/samsung/manta" name="task650/device_samsung_manta" remote="task650" revision="kitkat" />
   <project path="device/samsung/msm8960-common" name="task650/device_samsung_msm8960-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/qcom-common" name="task650/device_samsung_qcom-common" remote="task650" revision="kitkat" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -344,7 +342,6 @@
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
-  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-11.0" />
   <project path="kernel/htc/msm8974" name="task650/kernel_htc_msm8974" remote="task650" revision="kitkat" />
   <project path="libcore" name="AOKP/libcore" remote="aokp" revision="kitkat" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
