@@ -376,6 +376,7 @@
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="kitkat" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PerformanceControl" name="omnirom/android_packages_apps_PerformanceControl" remote="omni" revision="android-4.4" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" groups="notdefault,legacypackages" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="notdefault,legacypackages" />
