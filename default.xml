@@ -58,7 +58,7 @@
   <project path="device/htc/m8" name="task650/device_htc_m8" remote="task650" revision="kitkat" />
   <project path="device/qcom/common" name="AOKP/device_qcom_common" remote="aokp" revision="kitkat" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/d2lte" name="task650/device_d2lte" remote="task650" revision="kitkat" />
+  <project path="device/samsung/d2lte" name="task650/device_samsung_d2lte" remote="task650" revision="kitkat" />
   <project path="device/samsung/jflte" name="task650/device_samsung_jflte" remote="task650" revision="kitkat" />
   <project path="device/samsung/msm8960-common" name="task650/device_samsung_msm8960-common" remote="task650" revision="kitkat" />
   <project path="device/samsung/qcom-common" name="task650/device_samsung_qcom-common" remote="task650" revision="kitkat" />
