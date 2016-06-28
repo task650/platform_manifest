@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="kernel/samsung/d2_custom" name="underwear_kernel_d2_4.2" remote="task650" revision="cm-10.1" />
-  <project path="kernel/samsung/manta" name="kernel_underwear_manta" remote="task650" revision="master" />
-</manifest>
