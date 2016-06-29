@@ -34,7 +34,7 @@
   <project path="platform_manifest" name="task650/platform_manifest" remote="task650" />
 
   <!-- AOKP -->
-  <project path="build" name="AOKP/build" groups="pdk" remote="aokp" >
+  <project path="build" name="task650/build" groups="pdk" remote="task650" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bootable/recovery" remote="aokp" name="AOKP/bootable_recovery" groups="pdk,pdk-cw-fs" />
@@ -53,7 +53,7 @@
   <project path="packages/services/Telephony" remote="aokp" name="AOKP/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
   <!--project path="packages/wallpapers/SwagPapers" remote="aokp" name="AOKP/packages_wallpapers_SwagPapers"-->
   <project path="system/core" remote="aokp" name="AOKP/system_core" groups="pdk" />
-  <project path="vendor/aokp" name="AOKP/vendor_aokp" remote="aokp" />
+  <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" />
   <project path="vendor/cmsdk" name="AOKP/cm_platform_sdk" remote="aokp" />
 
   <!-- CyanogenMod -->
