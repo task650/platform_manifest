@@ -3,7 +3,7 @@
 
   <!-- HTC -->
   <!-- HTC One M8 -->
-  <project name="AOKP/device_htc_m8" path="device/htc/m8" remote="aokp" revision="mm" />
+  <project name="task650/device_htc_m8" path="device/htc/m8" remote="task650" revision="mm" />
   <project name="Cyanogenmod/android_device_htc_m8-common" path="device/htc/m8-common" remote="cm" revision="cm-13.0" />
   <project name="Cyanogenmod/android_device_htc_msm8974-common" path="device/htc/msm8974-common" remote="cm" revision="cm-13.0" />
   <project name="Cyanogenmod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="cm" revision="cm-13.0" />
