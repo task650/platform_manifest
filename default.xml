@@ -42,7 +42,7 @@
   <project path="external/mksh" remote="aokp" name="AOKP/external_mksh" groups="pdk" />
   <project path="external/sepolicy" remote="aokp" name="AOKP/external_sepolicy" groups="pdk" />
   <project path="frameworks/av" name="AOKP/frameworks_av" groups="pdk" remote="aokp" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="aokp" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/base" name="task650/frameworks_base" remote="task650" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/cards" remote="aokp" name="AOKP/frameworks_opt_cards" groups="pdk" />
   <project path="frameworks/opt/telephony" remote="aokp" name="AOKP/frameworks_opt_telephony" groups="pdk" />
   <project path="packages/apps/InCallUI" remote="aokp" name="AOKP/packages_apps_InCallUI" groups="pdk-fs" />
