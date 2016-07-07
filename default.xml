@@ -20,7 +20,11 @@
            revision="refs/heads/cm-13.0" />
 
   <remote  name="task650"
-           remote="task650"
+           remote="tm"
+           fetch="https://github.com/" />
+
+  <remote  name="tm"
+           remote="cm-13.0"
            fetch="https://github.com/" />
 
   <remote  name="private"
@@ -56,6 +60,10 @@
   <project path="system/core" remote="aokp" name="AOKP/system_core" groups="pdk" />
   <project path="vendor/aokp" name="task650/vendor_task650" remote="task650" />
   <project path="vendor/cmsdk" name="AOKP/cm_platform_sdk" remote="aokp" />
+
+  <!-- Task650 -->
+  <project name="task650/device_htc_m8" path="device/htc/m8" remote="task650" revision="mm" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="tm" revision="cm-13.0" />
 
   <!-- CyanogenMod -->
   <project path="abi/cpp" remote="cm" name="CyanogenMod/android_abi_cpp" groups="pdk" />
