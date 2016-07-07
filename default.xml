@@ -20,7 +20,7 @@
            revision="refs/heads/cm-13.0" />
 
   <remote  name="task650"
-           fetch=".."
+           remote="task650"
            fetch="https://github.com/" />
 
   <remote  name="private"
