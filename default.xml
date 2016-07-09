@@ -24,10 +24,10 @@
            fetch="https://github.com/" />
 
   <remote  name="MR"
-           fetch="https://github.com/" />
+           fetch="https://github.com/multirom-htc" />
 
   <remote  name="multirom"
-           fetch="https://github.com/" />
+           fetch="https://github.com/Tasssadar" />
 
   <remote  name="tm"
            remote="cm-13.0"
