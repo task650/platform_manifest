@@ -62,7 +62,6 @@
   <project path="build" name="task650/build" groups="pdk" remote="task650" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="bootable/recovery" remote="aokp" name="AOKP/bootable_recovery" groups="pdk,pdk-cw-fs" />
   <project path="device/qcom/sepolicy" remote="aokp" name="AOKP/device_qcom_sepolicy" />
   <project path="external/mksh" remote="aokp" name="AOKP/external_mksh" groups="pdk" />
   <project path="external/sepolicy" remote="aokp" name="AOKP/external_sepolicy" groups="pdk" />
