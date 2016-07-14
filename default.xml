@@ -21,7 +21,7 @@
 
   <remote  name="task650"
            remote="tm"
-           fetch="https://github.com/" />
+           fetch="ssh://git@github.com" />
 
   <remote  name="tm"
            remote="cm-13.0"
