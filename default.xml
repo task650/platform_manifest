@@ -44,7 +44,7 @@
   </project>
   <project path="bootable/recovery" remote="aokp" name="AOKP/bootable_recovery" groups="pdk,pdk-cw-fs" />
   <project path="device/qcom/sepolicy" remote="aokp" name="AOKP/device_qcom_sepolicy" />
-  <project path="external/mksh" remote="aokp" name="AOKP/external_mksh" groups="pdk" />
+  <project path="external/mksh" remote="task650" name="task650/external_mksh" groups="pdk" />
   <project path="external/sepolicy" remote="aokp" name="AOKP/external_sepolicy" groups="pdk" />
   <project path="frameworks/av" name="AOKP/frameworks_av" groups="pdk" remote="aokp" />
   <project path="frameworks/base" name="task650/frameworks_base" remote="task650" groups="pdk-cw-fs,pdk-fs" />
